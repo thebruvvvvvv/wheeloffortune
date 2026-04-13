@@ -1,6 +1,6 @@
 hello!
-this is where i will be typing about Wheel of Fortune.
-as of now, V1 is out, but i will still type about the stuff it has.
+this is where i will be writing about Wheel of Fortune, which is a balatro mod made using joker forge.
+as of now, V1 is out, which doesn't add much, but i will still write about the stuff it has.
 <h1>what does WoF even have??</h1>
 <h2>Jokers</h2>
 Wheel of Fortune adds multiple jokers. As of now, it adds:
