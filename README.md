@@ -1,0 +1,17 @@
+hello!
+this is where i will be typing about Wheel of Fortune.
+as of now, V1 is out, but i will still type about the stuff it has.
+<h1>what does WoF even have??</h1>
+<h2>Jokers</h2>
+Wheel of Fortune adds multiple jokers. As of now, it adds:
+<ul>
+  <li>4 Common jokers</li>
+  <li>8 Uncommon jokers</li>
+  <li>3 Rare jokers</li>
+</ul>
+<h2>Consumables</h2>
+Wheel of Fortune adds a brand new type of consumables; Mineral cards! 
+<br>They buff your run directly, either by improving your cards or more direct things such as your hand size.
+<br>Alongside this, this mod also adds 2 different tarot cards and 2 different spectral cards.
+<h2>Card Modifiers</h2>
+Wheel of Fortune adds 1 new enhancement (Fondue) and 1 new seal (Lavender Seal)
