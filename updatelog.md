@@ -9,3 +9,8 @@
 <ul>
   <li>Since it was breaking the game, Lobster Mushroom has been replaced with Cellar Growth.</li>
 </ul>
+<h2>V1.1</h2>
+<ul>
+  <li>Multiple Mineral cards have been reworked, alongside 1 Spectral card.</li>
+  <li>Deposit packs have been reworked.</li>
+</ul>
