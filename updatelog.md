@@ -14,3 +14,10 @@
   <li>Multiple Mineral cards have been reworked, alongside 1 Spectral card.</li>
   <li>Deposit packs have been reworked.</li>
 </ul>
+<h2>V1.2</h2>
+<ul>
+  <li>1 new enhancement (Brass) has been added.</li>
+  <li>5 boss blinds have been added</li>
+  <li>1 tag has been added</li>
+</ul>
+
