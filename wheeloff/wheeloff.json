@@ -4,10 +4,10 @@
   "author": [
     "TheBruv"
   ],
-  "description": " the worst balatro mod. made with joker forge.\n",
+  "description": " the worst balatro mod. formerly made with joker forge.\n",
   "prefix": "wheeloffortune",
   "main_file": "main.lua",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "priority": 0,
   "badge_colour": "c7b24a",
   "badge_text_colour": "FFFFFF",
